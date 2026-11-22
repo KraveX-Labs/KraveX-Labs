@@ -155,23 +155,6 @@ Short description of what it does.
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
-## 📊 &nbsp;GitHub Activity
-
-<p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=GITHUB_USERNAME&show_icons=true&hide_border=true&count_private=true&bg_color=0b0d12&title_color=ff2d46&icon_color=ff2d46&text_color=c9d1d9" alt="GitHub stats"/>
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0b0d12&title_color=ff2d46&text_color=c9d1d9" alt="Top languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GITHUB_USERNAME&hide_border=true&background=0b0d12&ring=ff2d46&fire=ff2d46&currStreakLabel=ff2d46&currStreakNum=ffffff&sideNums=ffffff&sideLabels=c9d1d9&dates=8b949e" alt="Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GITHUB_USERNAME&bg_color=0b0d12&color=ff2d46&line=ff2d46&point=ffffff&area=true&area_color=ff2d46&hide_border=true" width="100%" alt="Contribution graph"/>
-</p>
-
-<img src="./assets/divider.svg" width="100%" alt=""/>
-
 ## 🤝 &nbsp;Let's Connect
 
 Colleges, sponsors, mentors, and fellow builders: let's make cybersecurity learning something students are excited about.
