@@ -36,13 +36,13 @@ I'm **Vishesh Kumar**, Founder and CEO of **KRAVEX LABS**: a cyber range and CTF
 Security is best learned under pressure, with a clock running and a scoreboard watching. I'm building the place where that happens: **hands-on, competitive, and fun**.
 
 ```yaml
-name:      Vishesh Kumar
-role:      Founder & CEO
-company:   KRAVEX LABS          # Labs / Cyber Range
-mission:   Cybersecurity, made competitive
-building:  Campus CTFs · Live scoring · Hands-on challenges
-open_to:   [College partnerships, Sponsors, Mentors, Collaborators]
-status:    "shipping, always"
+Name:      Vishesh Kumar
+Role:      Founder & CEO
+company:   KRAVEX LABS [ Labs / Cyber Range ]
+Mission:   Cybersecurity, made competitive
+Building:  Campus CTFs · Live scoring · Hands-on challenges
+Open_to:   [ College partnerships, Sponsors, Mentors, Collaborators ]
+Status:    [ Shipping, always ]
 ```
 
 </td>
